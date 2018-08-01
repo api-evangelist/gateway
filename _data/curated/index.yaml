@@ -271,4 +271,89 @@
   url: https://dzone.com/articles/2252399
   domain: dzone.com
   image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_1643a5e6ff9:1c323b7:386c987f
+  item_date: "2018-06-25 21:20:18"
+  title: WSO2 API Manager Microgateway
+  url: https://medium.com/p/a32e37638c3a
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1643ac0c5fc:1cac7d7:386c987f
+  item_date: "2018-06-25 22:04:00"
+  title: Using API Gateways to Facilitate Your Transition From Monolith to Microservices
+  url: https://dzone.com/articles/2289908
+  domain: dzone.com
+  image: ""
+- curated_id: 9QOGTVP+u4vwJNHB7SlLr9mbA0Mmqrsw3WZp2GL3orY=_1644ae7f69d:3692048:4e0f6129
+  item_date: "2018-06-29 02:00:40"
+  title: Amazon API Gateway Now Supports Private Endpoints
+  url: https://www.infoq.com/news/2018/06/amazon-api-gateway
+  domain: www.infoq.com
+  image: ""
+- curated_id: FRZ+shc3LqpVCK621K34zGjZOGTG++v8k67fCOJZwfI=_164954e013a:a2fff2f:4e0f6129
+  item_date: "2018-06-29 13:08:43"
+  title: "How to build a secure API gateway \u2013 Network Security"
+  url: https://www.forumsys.com/?p=13997
+  domain: www.forumsys.com
+  image: ""
+- curated_id: WogDV3hkG8yrAvqu9zgFSDkVGkkG3KTJb/4jkpnYK10=_1647033c06c:6bef078:386c987f
+  item_date: "2018-07-06 07:55:45"
+  title: What is an API Microgateway?
+  url: https://apifriends.com/?p=9656
+  domain: apifriends.com
+  image: ""
+- curated_id: ZQTLjViBmHaIIqn2rojMd1cDp5whcNyr6F3eheqPe98=_16489109972:8ebadf9:aa514a55
+  item_date: "2018-07-11 03:38:31"
+  title: Rapid Akamai API Gateway Adoption Demonstrates How DevOps Can Drive Exceptional
+    End
+  url: https://www.prnewswire.com/news-releases/rapid-akamai-api-gateway-adoption-demonstrates-how-devops-can-drive-exceptional-end-user-web-experiences-300678849.html
+  domain: www.prnewswire.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_1648f087714:39645e4:19029e75
+  item_date: "2018-07-12 08:07:32"
+  title: Deploying Drift Apps on AWS using AWS Lambda and API Gateway
+  url: https://medium.com/p/ca033e274e61
+  domain: medium.com
+  image: ""
+- curated_id: /nF/YWkHiuackzrydqXDCsc7DAaVQPLQJZlxS4iGK2E=_164922d9260:9d446b2:386c987f
+  item_date: "2018-07-12 22:33:38"
+  title: 'Tyk 2.7: An API Gateway Odyssey'
+  url: https://tyk.io/?p=25809
+  domain: tyk.io
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_16494c16e37:40c967e:b83afde1
+  item_date: "2018-07-13 10:47:39"
+  title: Navigate your AWS Lambda Logs from Amazon API Gateway Response Headers
+  url: https://medium.com/p/c78bd7f73715
+  domain: medium.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_164a7cf801b:543e939:b83afde1
+  item_date: "2018-07-17 03:35:49"
+  title: 'API Gateway: Learn the basics of AWS API Gateway with Serverless Framework'
+  url: https://medium.com/p/9c27333e550e
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_164abdb3062:c18f06f:386c987f
+  item_date: "2018-07-17 22:02:00"
+  title: 'Develop an API Gateway Using Tarantool (Part 3): Queue Parsing With Python'
+  url: https://dzone.com/articles/2330959
+  domain: dzone.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_164ad895a0d:c4479fe:aa514a55
+  item_date: "2018-07-18 05:25:25"
+  title: Building an API Gateway with the Ballerina Programming Language
+  url: https://www.infoq.com/articles/ballerina-api-gateway
+  domain: www.infoq.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_164bb08bc06:7dc24:e8d3bdb3
+  item_date: "2018-07-20 02:59:21"
+  title: "KONG \u2014 The Microservice API Gateway"
+  url: https://medium.com/p/526c4ca0cfa6
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_164d340952f:4fe882:e393bce5
+  item_date: "2018-07-25 13:38:49"
+  title: "Building an API with Lambdas and API Gateway \u2014 Part 2"
+  url: https://medium.com/p/7c674a0eb121
+  domain: medium.com
+  image: ""
 ...
