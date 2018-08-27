@@ -362,4 +362,16 @@
   url: https://searchmicroservices.techtarget.com/tip/Use-API-gateways-to-aid-microservices-communication-security
   domain: searchmicroservices.techtarget.com
   image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_16564ff00fc:756d01:215b6325
+  item_date: "2018-08-22 06:45:20"
+  title: AWS API Gateway with Terraform
+  url: https://medium.com/p/7a2bebe8b68f
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_1657725980f:89772e:6f86c10b
+  item_date: "2018-08-26 09:26:11"
+  title: API Gateway is a key to the success of API based Enterprise Integration
+  url: https://medium.com/p/ce74095a9c15
+  domain: medium.com
+  image: ""
 ...
