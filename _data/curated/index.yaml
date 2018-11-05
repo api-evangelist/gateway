@@ -368,10 +368,77 @@
   url: https://medium.com/p/7a2bebe8b68f
   domain: medium.com
   image: ""
+- curated_id: 53UYdSIjaP6vd+2Bz1ivn3GdkSivxwzyAAG6WfdGv7o=_165cfcd4b6f:7255b5:4db7ac35
+  item_date: "2018-08-24 14:31:05"
+  title: 'Deploying NGINX Plus as an API Gateway, Part 3: Publishing gRPC Services'
+  url: https://www.nginx.com/?p=59248
+  domain: www.nginx.com
+  image: ""
 - curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_1657725980f:89772e:6f86c10b
   item_date: "2018-08-26 09:26:11"
   title: API Gateway is a key to the success of API based Enterprise Integration
   url: https://medium.com/p/ce74095a9c15
   domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1658507888d:2be6f2:4c71e4fe
+  item_date: "2018-08-29 02:06:01"
+  title: The Role of API Gateways in API Security
+  url: https://dzone.com/articles/2415252
+  domain: dzone.com
+  image: ""
+- curated_id: oNWXIUFEq3deZ9p31Bzsn84rUoNNfVyF0iFTFhkkP/M=_165d9668d54:598fa2:3097813d
+  item_date: "2018-09-14 11:42:32"
+  title: HTTPS
+  url: https://github.com/SteveLTN/https-portal
+  domain: github.com
+  image: ""
+- curated_id: lvAGyZqtR0/mYw7A1WiIHy09UFoEw3/rxwIZeeDcKuw=_165ef3e8282:670cdb:4db7ac35
+  item_date: "2018-09-18 05:32:57"
+  title: Securing the microservices mesh with an API Gateway
+  url: http://blog.akana.com/?p=2775
+  domain: blog.akana.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_165ef1cf812:640761:4c71e4fe
+  item_date: "2018-09-18 08:42:45"
+  title: Kong Announces Version 1.0 of its Open
+  url: https://www.programmableweb.com/news/kong-announces-version-10-its-open-source-microservice-api-gateway/brief/2018/09/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_165f35756af:c8a858:4c71e4fe
+  item_date: "2018-09-19 10:32:00"
+  title: Kong Crushes API Orchestration Challenges
+  url: https://www.sdxcentral.com/articles/news/kong-crushes-api-orchestration-challenges/2018/09/
+  domain: www.sdxcentral.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_165fcdff0b8:1af829d:6f86c10b
+  item_date: "2018-09-21 09:00:53"
+  title: 'NGINX Interview: Enterprise Adoption of Software Load Balancing, API Gateways,
+    and Service Meshes'
+  url: https://www.infoq.com/news/2018/09/nginx-future-networking
+  domain: www.infoq.com
+  image: ""
+- curated_id: 53UYdSIjaP6vd+2Bz1ivn3GdkSivxwzyAAG6WfdGv7o=_165fda76724:1b7b093:4c71e4fe
+  item_date: "2018-09-21 12:17:11"
+  title: Consolidating Your API Gateway and Load Balancer with NGINX
+  url: https://www.nginx.com/?p=59518
+  domain: www.nginx.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_166244cbe9c:19e445:4eafa5b
+  item_date: "2018-09-28 16:03:03"
+  title: How to create an AWS Lambda Authorizer for API Gateway
+  url: https://medium.com/p/45df4745a0e
+  domain: medium.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_166b1f7bc52:14dc0ed:d42b93be
+  item_date: "2018-10-25 17:13:25"
+  title: Release Releasing SAM v1.8.0
+  url: https://github.com/awslabs/serverless-application-model/releases/tag/v1.8.0
+  domain: github.com
+  image: ""
+- curated_id: WogDV3hkG8yrAvqu9zgFSDkVGkkG3KTJb/4jkpnYK10=_166b2ad2e55:15c33dd:f7a2ccea
+  item_date: "2018-10-26 15:57:48"
+  title: 'Microgateway Blog Series, Part 2: Edge to Internal'
+  url: https://apifriends.com/?p=11309
+  domain: apifriends.com
   image: ""
 ...
