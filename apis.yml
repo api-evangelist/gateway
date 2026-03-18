@@ -1,0 +1,21 @@
+aid: gateway
+name: Gateway
+description: >-
+  A collection of services, tooling, and open source solutions for API gateway
+  management and traffic control, covering routing, authentication, rate
+  limiting, observability, and security for APIs and microservices.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - API Gateway
+  - Traffic Management
+  - API Management
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/gateway/refs/heads/main/apis.yml
+created: '2026-03-18'
+modified: '2026-03-18'
+specificationVersion: '0.19'
+apis: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
