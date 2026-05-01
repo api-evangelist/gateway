@@ -16,7 +16,11 @@ A collection of services, tooling, and open source solutions for API gateway man
 ## Timestamps
 
 - **Created:** 2026-03-18 
-- **Modified:** 2026-03-18 
+- **Modified:** 2026-04-28 
+
+## Network
+
+This index aggregates the network of API gateway and service mesh providers tracked across the API Evangelist network, including AgentGateway, Amazon API Gateway, Apache APISIX, Apigee, Apinizer, AWS App Mesh, Axway, Bifrost, Cilium, Contour, Emissary-Ingress, Envoy, Envoy Gateway, Envoy Proxy, Fusio, Gloo, Gravitee, Greymatter, Google Apigee, Google Cloud Service Mesh, HAProxy, Higress, IBM API Connect, Istio, Kong, KrakenD, Kuma, Linkerd, Lura, Microsoft Azure API Management, Microsoft Azure Integration Services, MuleSoft, Netflix Zuul, NGINX, Ocelot, Red Hat 3scale, SAP API Management, SAP Integration Suite, Software AG, Solo.io, Spring Cloud Gateway, Tetrate, Traefik, Truefoundry, Tyk, WSO2, and Zuul.
 
 ## Maintainers
 
