@@ -1,0 +1,18 @@
+title: Gateway
+description: A collection of services, tooling, and open source solutions for API
+  gateway management and traffic control, covering routing, authentication, rate limiting,
+  observability, and security for APIs and microservices.
+url: https://gateway.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary

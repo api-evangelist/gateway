@@ -1,0 +1,160 @@
+meta:
+  name: Gateway
+  description: A collection of services, tooling, and open source solutions for API
+    gateway management and traffic control, covering routing, authentication, rate
+    limiting, observability, and security for APIs and microservices.
+  tags:
+  - API Gateway
+  - API Management
+  - Traffic Management
+  portal: null
+  github: null
+  repo: gateway
+services_tools:
+- name: AgentGateway
+  repo: https://github.com/api-evangelist/agentgateway
+  apisio: https://providers.apis.io/providers/agentgateway/
+- name: Amazon API Gateway
+  repo: https://github.com/api-evangelist/aws-api-gateway
+  apisio: https://providers.apis.io/providers/aws-api-gateway/
+- name: Apache APISIX
+  repo: https://github.com/api-evangelist/apache-apisix
+  apisio: https://providers.apis.io/providers/apache-apisix/
+- name: Apigee
+  repo: https://github.com/api-evangelist/apigee
+  apisio: https://providers.apis.io/providers/apigee/
+- name: Apinizer
+  repo: https://github.com/api-evangelist/apinizer
+  apisio: https://providers.apis.io/providers/apinizer/
+- name: AWS App Mesh
+  repo: https://github.com/api-evangelist/aws-app-mesh
+  apisio: https://providers.apis.io/providers/aws-app-mesh/
+- name: Axway
+  repo: https://github.com/api-evangelist/axway
+  apisio: https://providers.apis.io/providers/axway/
+- name: Bifrost
+  repo: https://github.com/api-evangelist/bifrost
+  apisio: https://providers.apis.io/providers/bifrost/
+- name: Cilium
+  repo: https://github.com/api-evangelist/cilium
+  apisio: https://providers.apis.io/providers/cilium/
+- name: Contour
+  repo: https://github.com/api-evangelist/contour
+  apisio: https://providers.apis.io/providers/contour/
+- name: Emissary-Ingress
+  repo: https://github.com/api-evangelist/emissary-ingress
+  apisio: https://providers.apis.io/providers/emissary-ingress/
+- name: Envoy
+  repo: https://github.com/api-evangelist/envoy
+  apisio: https://providers.apis.io/providers/envoy/
+- name: Envoy Gateway
+  repo: https://github.com/api-evangelist/envoy-gateway
+  apisio: https://providers.apis.io/providers/envoy-gateway/
+- name: Envoy Proxy
+  repo: https://github.com/api-evangelist/envoy-proxy
+  apisio: https://providers.apis.io/providers/envoy-proxy/
+- name: Fusio
+  repo: https://github.com/api-evangelist/fusio
+  apisio: https://providers.apis.io/providers/fusio/
+- name: Gloo
+  repo: https://github.com/api-evangelist/gloo
+  apisio: https://providers.apis.io/providers/gloo/
+- name: Gravitee
+  repo: https://github.com/api-evangelist/gravitee
+  apisio: https://providers.apis.io/providers/gravitee/
+- name: Greymatter
+  repo: https://github.com/api-evangelist/greymatter
+  apisio: https://providers.apis.io/providers/greymatter/
+- name: Google Apigee
+  repo: https://github.com/api-evangelist/google-apigee
+  apisio: https://providers.apis.io/providers/google-apigee/
+- name: Google Cloud Service Mesh
+  repo: https://github.com/api-evangelist/google-cloud-service-mesh
+  apisio: https://providers.apis.io/providers/google-cloud-service-mesh/
+- name: HAProxy
+  repo: https://github.com/api-evangelist/haproxy
+  apisio: https://providers.apis.io/providers/haproxy/
+- name: Higress
+  repo: https://github.com/api-evangelist/higress
+  apisio: https://providers.apis.io/providers/higress/
+- name: IBM API Connect
+  repo: https://github.com/api-evangelist/ibm-api-connect
+  apisio: https://providers.apis.io/providers/ibm-api-connect/
+- name: Istio
+  repo: https://github.com/api-evangelist/istio
+  apisio: https://providers.apis.io/providers/istio/
+- name: Kong
+  repo: https://github.com/api-evangelist/kong
+  apisio: https://providers.apis.io/providers/kong/
+- name: KrakenD
+  repo: https://github.com/api-evangelist/krakend
+  apisio: https://providers.apis.io/providers/krakend/
+- name: Kuma
+  repo: https://github.com/api-evangelist/kuma
+  apisio: https://providers.apis.io/providers/kuma/
+- name: Linkerd
+  repo: https://github.com/api-evangelist/linkerd
+  apisio: https://providers.apis.io/providers/linkerd/
+- name: Lura
+  repo: https://github.com/api-evangelist/lura
+  apisio: https://providers.apis.io/providers/lura/
+- name: Lura Project
+  repo: https://github.com/api-evangelist/lura-project
+  apisio: https://providers.apis.io/providers/lura-project/
+- name: Microsoft Azure API Management
+  repo: https://github.com/api-evangelist/microsoft-azure-api-management
+  apisio: https://providers.apis.io/providers/microsoft-azure-api-management/
+- name: Microsoft Azure Integration Services
+  repo: https://github.com/api-evangelist/microsoft-azure-integration-services
+  apisio: https://providers.apis.io/providers/microsoft-azure-integration-services/
+- name: MuleSoft
+  repo: https://github.com/api-evangelist/mulesoft
+  apisio: https://providers.apis.io/providers/mulesoft/
+- name: Netflix Zuul
+  repo: https://github.com/api-evangelist/netflix-zuul
+  apisio: https://providers.apis.io/providers/netflix-zuul/
+- name: NGINX
+  repo: https://github.com/api-evangelist/nginx
+  apisio: https://providers.apis.io/providers/nginx/
+- name: Ocelot
+  repo: https://github.com/api-evangelist/ocelot
+  apisio: https://providers.apis.io/providers/ocelot/
+- name: Red Hat 3scale
+  repo: https://github.com/api-evangelist/red-hat-3scale
+  apisio: https://providers.apis.io/providers/red-hat-3scale/
+- name: SAP API Management
+  repo: https://github.com/api-evangelist/sap-api-management
+  apisio: https://providers.apis.io/providers/sap-api-management/
+- name: SAP Integration Suite
+  repo: https://github.com/api-evangelist/sap-integration-suite
+  apisio: https://providers.apis.io/providers/sap-integration-suite/
+- name: Software AG
+  repo: https://github.com/api-evangelist/software-ag
+  apisio: https://providers.apis.io/providers/software-ag/
+- name: Solo.io
+  repo: https://github.com/api-evangelist/solo
+  apisio: https://providers.apis.io/providers/solo/
+- name: Spring Cloud Gateway
+  repo: https://github.com/api-evangelist/spring-cloud-gateway
+  apisio: https://providers.apis.io/providers/spring-cloud-gateway/
+- name: Tetrate
+  repo: https://github.com/api-evangelist/tetrate
+  apisio: https://providers.apis.io/providers/tetrate/
+- name: Traefik
+  repo: https://github.com/api-evangelist/traefik
+  apisio: https://providers.apis.io/providers/traefik/
+- name: Truefoundry
+  repo: https://github.com/api-evangelist/truefoundry
+  apisio: https://providers.apis.io/providers/truefoundry/
+- name: Tyk
+  repo: https://github.com/api-evangelist/tyk
+  apisio: https://providers.apis.io/providers/tyk/
+- name: WSO2
+  repo: https://github.com/api-evangelist/wso2
+  apisio: https://providers.apis.io/providers/wso2/
+- name: Zuul
+  repo: https://github.com/api-evangelist/zuul
+  apisio: https://providers.apis.io/providers/zuul/
+features: []
+use_cases: []
+integrations: []
