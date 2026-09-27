@@ -1,7 +1,7 @@
 ---
-title: 'Gartner: 75% of API Gateways Will Integrate MCP by 2026'
-link: https://zuplo.com//blog/gartner-75-percent-api-gateways-mcp
-published: '2026-03-26'
+title: 'OpenAPI Arazzo & Overlay: Workflows and Spec Management'
+link: https://zuplo.com//blog/openapi-arazzo-overlay-specifications-guide
+published: '2026-04-07'
 provider: zuplo
 repo: https://github.com/api-evangelist/zuplo
 domain: zuplo.com
