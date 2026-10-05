@@ -1,5 +1,6 @@
 aid: gateway
 name: Gateway
+kind: topic
 description: >-
   A collection of services, tooling, and open source solutions for API gateway
   management and traffic control, covering routing, authentication, rate
