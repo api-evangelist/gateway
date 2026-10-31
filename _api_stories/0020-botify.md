@@ -1,7 +1,6 @@
 ---
-title: 'Botify MCP Use Case: Checking Whether a Ranking or Traffic Shift Lines Up
-  With a Change'
-link: https://support.botify.com/en/articles/16967903-botify-mcp-use-case-checking-whether-a-ranking-or-traffic-shift-lines-up-with-a-change
+title: 'Botify MCP Use Case: Separating Search Engine and AI Crawler Traffic'
+link: https://support.botify.com/en/articles/16967879-botify-mcp-use-case-separating-search-engine-and-ai-crawler-traffic
 published: '2026-09-16'
 provider: botify
 repo: https://github.com/api-evangelist/botify
